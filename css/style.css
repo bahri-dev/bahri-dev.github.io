@@ -199,9 +199,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-header .display-tc .profile-thumb,
 .fh5co-cover .display-tc .profile-thumb {
-  background-size: 150% !important;
+  background-size: 100% !important;
   background-position-x: center !important;
-  background-position-y: 30px !important;
+  background-position-y: 41px !important;
   background-repeat: no-repeat !important;
   position: relative;
   height: 200px;
